@@ -8,6 +8,7 @@ public class AddressbookBackendApplication {
 
     public static void main(String[] args) {
         System.out.println("Welcome to Addressbook");
+
         SpringApplication.run(AddressbookBackendApplication.class, args);
     }
 
