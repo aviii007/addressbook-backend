@@ -1,0 +1,6 @@
+2022-06-09 16:56:46.648  INFO 9144 --- [main] c.b.a.AddressbookBackendApplication      : Starting AddressbookBackendApplication using Java 18.0.1.1 on admin with PID 9144 (F:\Tomcat\addressbook-backend\target\classes started by HOME in F:\Tomcat\addressbook-backend)
+2022-06-09 16:56:46.652 DEBUG 9144 --- [main] c.b.a.AddressbookBackendApplication      : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-09 16:56:46.653  INFO 9144 --- [main] c.b.a.AddressbookBackendApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-06-09 16:56:49.176  WARN 9144 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-09 16:56:49.565  INFO 9144 --- [main] c.b.a.AddressbookBackendApplication      : Started AddressbookBackendApplication in 3.446 seconds (JVM running for 4.278)
+2022-06-09 16:56:49.568  INFO 9144 --- [main] c.b.a.AddressbookBackendApplication      : Addressbook App Started
